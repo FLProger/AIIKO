@@ -1,4 +1,6 @@
-# AIIKO
+<div>
+<h1 align="center">AIIKO</h1>
+</div>
 
 <div class="profile_views" align="center">
 	<img src="https://komarev.com/ghpvc/?username=FLProger&style=for-the-badge&color=000000" alt=""/>
