@@ -1,5 +1,5 @@
 <div>
-<h1 align="center">AIIKO</h1>
+<h1 align="center">ColBlind</h1>
 </div>
 
 <div class="profile_views" align="center">
